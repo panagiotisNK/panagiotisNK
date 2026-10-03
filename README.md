@@ -2,7 +2,7 @@
 
 I’m a Computer & Informatics Engineer (M.Sc.) from the University of Patras, Greece, currently serving in military IT support. My thesis explored neural networks for music harmonization, and I’m interested in pursuing opportunities in cybersecurity.
 
-Here is my 
+[Here is my CV](./CV.pdf)
 
 <!--
 **panagiotisNK/panagiotisNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
